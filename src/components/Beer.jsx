@@ -1,13 +1,17 @@
 import React from "react";
+import RLCarousel from './carousel';
 
-function Beer() {
-  return (
-    <div className="skillSet">
-      <div class="container">
-        
+class Beer extends React.Component {
+  render() {
+    return (
+      <div classname="container">
+        <br></br>
+        <RLCarousel />
+        <br></br>
       </div>
-    </div>
-  );
+    );
+  }
+  
 }
 
 export default Beer;

@@ -24,9 +24,11 @@
   color: white;
 }
 
+img{white-space:pre} 
 .page-padding {
   padding-top: 150px;
 }
+
 
 .App-link {
   color: #61dafb;

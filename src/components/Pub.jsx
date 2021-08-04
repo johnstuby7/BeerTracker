@@ -1,10 +1,10 @@
 import React from "react";
-import BottleScrew from "../image/BottleScrew.jpg"
-import CivicTavern from "../image/civicTavern.jpg"
-import ColdGarden from "../image/ColdGarden.jpg"
-import Dickens from "../image/Dickens.jpg"
-import Palomino from "../image/Palomino.jpg"
-import ShipAndAnchor from "../image/ShipAndAnchor.jpg"
+import BottleScrew from "../images/BottleScrew.jpg"
+import CivicTavern from "../images/civicTavern.jpg"
+import ColdGarden from "../images/ColdGarden.jpg"
+import Dickens from "../images/Dickens.jpg"
+import Palomino from "../images/Palomino.jpg"
+import ShipAndAnchor from "../images/ShipAndAnchor.jpg"
 
 // Get angular react and vue logos. 
 function Pub() {
