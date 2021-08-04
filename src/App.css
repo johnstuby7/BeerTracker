@@ -24,8 +24,59 @@
   color: white;
 }
 
+.page-padding {
+  padding-top: 150px;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.float-container {
+  padding: 20px;
+}
+
+.float-child {
+  width: 50%;
+  float: left;
+} 
+
+.text-left {
+  text-align: left;
+}
+
+.footer-padding {
+  padding: 22px;
+}
+
+.download-link {
+  padding-bottom: 120px;
+}
+
+.previous-employee {
+  color: white;
+}
+
+.text-color {
+  color: teal;
+}
+
+a {
+  color: #919793;
+  transition: background-color .5s;
+}
+
+a:hover {
+  color: white;
+}
+
+.contact-links {
+  color: black;
+  transition: background-color .5s;
+}
+
+.contact-links:hover {
+  color: blue;
 }
 
 @keyframes App-logo-spin {
