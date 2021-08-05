@@ -1,0 +1,37 @@
+[{
+  "BeerID" : 1,
+  "BeerName" : "Phillips Double Amnesiac",
+  "type" : "IPA",
+  "rating" : 5,
+  "location" : "Calgary Liquor Store",
+  "description": "Great taste, lots of flavor, strong alchohol content"
+}, {
+  "BeerID" : 2,
+  "BeerName" : "Pilsner",
+  "type" : "Pilsner",
+  "rating" : 3,
+  "location" : "Calgary Liquor Store",
+  "description": "The Classic canadian pilsner, not as crisp as others, but good value for the money"
+}, {
+  "BeerID" : 3,
+  "BeerName" : "Bitters",
+  "type" : "Bitters",
+  "rating" : 4,
+  "location" : "London, England",
+  "description": "A Stable of London for good reason, tasty and unique. one of the few beers to have at room temp"
+}, {
+  "BeerID" :4,
+  "BeerName" : "Boiling Oar Kolsch",
+  "type" : "Kolsch",
+  "rating" : 3,
+  "location" : "Bottlescrew Bills",
+  "description": "Good flavor, very crisp"
+}, {
+  "BeerID" : 5,
+  "BeerName" : "Guiness",
+  "type" : "Porter",
+  "rating" : 4,
+  "location" : "Dublin, Ireland",
+  "description": "Poured myself a pint at the guiness factory myself, great flavor and definitely tastes better in Ireland"
+}
+]
